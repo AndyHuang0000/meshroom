@@ -52,7 +52,8 @@ Entity {
             }
         },
         PhongMaterial {
-            ambient: Qt.rgba(0.4, 0.4, 0.4, 1)
+            ambient: "#FFF"
+            diffuse: Qt.rgba(0.4, 0.4, 0.4, 1)
         }
     ]
 }
